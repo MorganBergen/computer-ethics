@@ -32,3 +32,10 @@ Ethical issues from the use of computers, moral responsibility of computer profe
 -  the diners defense:  producers, consumers, and the benefits of existence by podorski
 -  engineering and cosmic significance
 -  the absurd by nagel, cosmic insignificance by kahane
+
+##  Grading
+
+-  5 discussion cycles - 2 points each
+-  3 exams - 25 points each
+-  comprehensive exam - 10 points
+-  written assignment - 5 points
