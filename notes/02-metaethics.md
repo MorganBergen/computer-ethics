@@ -1,5 +1,13 @@
 #  metaethics
 
+1.  [the error theory](#the-error-theory)
+2.  [non-cognitivism](#non-cognitivism)
+3.  [subjectivism](#subjectivism)
+4.  [relativism](#relativism)
+5.  [objectivism](#objectivism)
+6.  [some arguments against subjectivism](#some-arguments-against-subjectivism)
+7.  [some arguments against objectivism](#some-arguments-against-objectivism)
+
 ##  the error theory
 
 no moral statements are true.  moral statements are not the sort of things that are capable of being true or false.  sometimes people make moral statements that they think are true.  but no moral statements are true.
@@ -53,69 +61,112 @@ moral statements are like statements about science or math or history are suppos
 
 ##  some arguments against subjectivism
 
-**the first argument from moral progress**
+###  the first argument from moral progress
 
-1.  if subjectivism is true, then tom became morally perfect just by believing that whatever he does is good
-2.  but tom didn't become morally perfect
-3.  so subjectivism is false
+**premise 1**  if subjectivism is true, then tom became morally perfect just by believing that whatever he does is good
 
-**the second argument from moral progress**
+**premise 2**  but tom didn't become morally perfect
 
-1.  moral progress is possible
-2.  if 1., then subjectivism is false
-3.  so subjectivism is false
+**conclusion**  so subjectivism is false
 
-**argument against subjectivism form disagreement**
+premise 1 -  this states that under subjectivism, simply believing that one's actions are morally good would make them so.  the premise attempts to capture the essence of subjectivism that moral rightness is a matter of individual belief.
 
-1.  if subjectivism is true, then moral disagreement never happens
-2.  but moral disagreement does happen
-3.  so, subjectivism is false
+premise 2 -  this premise asserts that tom did not become morally perfect.  the argument assumes that moral progress is possible and that tom did not achieve moral perfection.  the premise is intended to show that subjectivism is false.
 
-**the argument from moral error**
+conclusion -  this follows logically from the premises in a modus tollens argument form
 
-1.  sometimes an individual has mistaken beliefs about morality
-2.  if 1., then subjectivism is false
-3.  so subjectivism is false
+if $P$ then $Q$, not $Q$; therefore, not $P$
 
-###  some arguments against objectivism
+###  the second argument from moral progress
 
-**the argument from tolerance**
+**premise 1**  moral progress is possible
 
-1.  if tolerance is valuable, the objectivism is false
-2.  tolerance is valuable
-3.  so objectivism is false
+**premise 2**  if premise 1, then subjectivism is false
 
-**the argument from disagreement against objectivism**
+**conclusion**  so subjectivism is false
 
-1.  if well informed, open-minded people intractably disagree about a wide range of claims made in an area of inquiry, then there is strong evidence that claims made about that area of inquiry are not objective true
-2.  well informed, open-minded people intractable disagree about a wide range of claims made about morality
-3.  so there is string evidence that claims ade about ethics are not objectively true
+###  argument against subjectivism form disagreement
 
-**the argument against objectivism from occam's razor**
+**premise 1**  if subjectivism is true, then moral disagreement never happens
 
-1.  if a hypothesis is not needed to explain any observations, then we are not justified in believing it
-2.  the hypothesis that moral properties exist is not needed to explain any of our observations
-3.  therefore, we are not justified in believing that moral properties exist
+**premise 2**  but moral disagreement does happen
 
-**the regress argument**
+**conclusion**  **so, subjectivism is false
 
-1.  a moral belief is justified only if
-    i.  the oral belief is self evident or 
-    ii.  the moral belief is justified by some other belief
-2.  there are no self-evident moral beliefs
-3.  if a moral belief is justified by some other belief, then either
-    i.  that other belief is a moral belief or
-    ii.  that other belief is a non moral belief
-4.  there are no moral beliefs that are justified by non moral beliefs
-5.  there are no moral beliefs that are justified by non moral beliefs
-6.  so there are no justified moral beliefs
+###  the argument from moral error
 
-self evident:  a belief about some statement is self evident if and only if any person that understands that statement is justified in believing it
--  'all bachelors are unmarried men'
--  'all triangles have three sides'
+**premise 1**  sometimes an individual has mistaken beliefs about morality
+
+**premise 2**  if premise 1 then subjectivism is false
+
+**conclusion**  so subjectivism is false
+
+##  some arguments against objectivism
+
+###  the argument from tolerance
+
+**premise 1**  if tolerance is valuable, the objectivism is false
+
+**premise 2**  tolerance is valuable
+
+**conclusion**  so objectivism is false
+
+##  the argument from disagreement against objectivism
+
+**premise 1**  if well informed, open-minded people intractably disagree about a wide range of claims made 
+in an area of inquiry, then there is strong evidence that claims made about that area of inquiry are not objective true
+
+**premise 2**  well informed, open-minded people intractable disagree about a wide range of claims made about morality
+
+**conclusion** so there is string evidence that claims ade about ethics are not objectively true
+
+###  the argument against objectivism from occam's razor
+
+**premise 1**  if a hypothesis is not needed to explain any observations, then we are not justified in believing it
+
+**premise 2**  the hypothesis that moral properties exist is not needed to explain any of our observations
+
+**conclusion**  therefore, we are not justified in believing that moral properties exist
+
+premise 1 is incorrect because there are hypothesis that exist that have no direct observations but are still believed to be true.  for example, the existence of dark matter, numbers, or what have you is a hypothesis that is not directly observed but is believed to be true based on the evidence that it explains.
+
+###  the regress argument
+
+**premise 1**  a moral belief is justified only if
+    
+i.  the moral belief is self evident or 
+    
+ii.  the moral belief is justified by some other belief
+
+**premise 2**  there are no self-evident moral beliefs
+
+**premise 3**  if a moral belief is justified by some other belief, then either
+
+i.  that other belief is a moral belief or
+    
+ii.  that other belief is a non moral belief
+    
+**premise 4**  there are no moral beliefs that are justified by non moral beliefs
+
+**premise 5**  there are no moral beliefs that are justified by non moral beliefs
+
+**conclusion**  so there are no justified moral beliefs
+
+self evident -  a belief about some statement is self evident if and only if any person that understands that statement is justified in believing it
+
+'all bachelors are unmarried men'
+
+'all triangles have three sides'
   
 **the argument from non-universality**
 
-1.  if objectivism is true, then there are universal moral laws
-2.  but there are no universal moral laws
-3.  so, objectivism is false
+**premise 1**  if objectivism is true, then there are universal moral laws
+
+**premise 2**  but there are no universal moral laws
+
+**conclusion**  so, objectivism is false
+
+academic skepticism -  the view that we are not justified in believing that we know anything, knowledge is impossible
+
+pyrrhonian skepticism -  is knowledge possible?  we don't know.  we are not justified in believing that we know anything
+
