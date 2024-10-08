@@ -18,7 +18,7 @@ like atheism about morality - 'god is loving' and 'god is hateful' are false
 
 ##  non-cognitivism
 
-no moral statements are true.  no moral statements are false.  moral statements are not the soft of things that are capable of being true or false.  they aren't real statements.  they just serve to express feelings, issue commands, and stuff like that.
+no moral statements are true.  no moral statements are false.  moral statements are not the sort of things that are capable of being true or false.  they aren't real statements.  they just serve to express feelings, issue commands, and stuff like that.
 
 just expressing emotions or issuing commands - 'abortion is wrong' = 'boo for abortion' or 'don't have an abortion', 'abortion is right' = 'yay for abortion' or 'have an abortion'
 
@@ -40,7 +40,7 @@ in subjectivism, truth in moral statements is relative to the individual.  if so
 
 ## relativism 
 
-a moral statement is true for a person if and only if that statement is part of teh moral code of that person's society.  morality is like the stands of law and etiquette.  
+a moral statement is true for a person if and only if that statement is part of the moral code of that person's society.  morality is like the stands of law and etiquette.  
 
 if according to the moral code of my society, abortion is wrong, the the statement 'abortion is wrong' is true for me
 
@@ -69,11 +69,11 @@ moral statements are like statements about science or math or history are suppos
 
 **conclusion**  so subjectivism is false
 
-premise 1 -  this states that under subjectivism, simply believing that one's actions are morally good would make them so.  the premise attempts to capture the essence of subjectivism that moral rightness is a matter of individual belief.
+premise 1 states that under subjectivism, simply believing that one's actions are morally good would make them so.  the premise attempts to capture the essence of subjectivism that moral rightness is a matter of individual belief.
 
-premise 2 -  this premise asserts that tom did not become morally perfect.  the argument assumes that moral progress is possible and that tom did not achieve moral perfection.  the premise is intended to show that subjectivism is false.
+premise 2 asserts that tom did not become morally perfect.  the argument assumes that moral progress is possible and that tom did not achieve moral perfection.  the premise is intended to show that subjectivism is false.
 
-conclusion -  this follows logically from the premises in a modus tollens argument form
+conclusion this follows logically from the premises in a modus tollens argument form
 
 if $P$ then $Q$, not $Q$; therefore, not $P$
 
@@ -91,7 +91,11 @@ if $P$ then $Q$, not $Q$; therefore, not $P$
 
 **premise 2**  but moral disagreement does happen
 
-**conclusion**  **so, subjectivism is false
+**conclusion**  so, subjectivism is false
+
+in subjectivism, truth in moral statements is relative to the individual.  if someone believes that a particular action is morally right, then it is right for them.  conversely, if someone believes an action is morally wrong, then it is wrong for them.  subjectivism denies the existence of universal or objective moral truths that apply to everyone.  instead, what is morally right or wrong is determined by an individual belief.
+
+premise 1 could be argued against by saying that moral disagreement does happen, but it is not a problem for subjectivism.  moral disagreement is not a problem for subjectivism because it is possible for two people to have different beliefs about what is morally right or wrong, and both beliefs can be true for each person.  in this case, moral disagreement is not a problem for subjectivism because it does not require that everyone agree on what is morally right or wrong.  consensus is not necessary for moral beliefs to be true under subjectivism, truth is relative to the individual belief.  
 
 ###  the argument from moral error
 
@@ -111,14 +115,20 @@ if $P$ then $Q$, not $Q$; therefore, not $P$
 
 **conclusion**  so objectivism is false
 
-##  the argument from disagreement against objectivism
+some moral statements are true and some moral statements are false.  whether or not a moral statement is true or false does not depend on what anybody thinks about it.  objectivism holds that there are objective moral truths that apply universally, independent of individual or cultural beliefs.  moral statements are classified as true or false based on their correspondence with these universal standards. 
+
+counterargument -  tolerance is irrelevant to the truth of moral statements.  a moral statement is true based on its correspondence with universal standards.  tolerance is a separate issue that concerns how individuals or societies interact with each other who hold different beliefs.
+
+###  the argument from disagreement against objectivism
 
 **premise 1**  if well informed, open-minded people intractably disagree about a wide range of claims made 
 in an area of inquiry, then there is strong evidence that claims made about that area of inquiry are not objective true
 
 **premise 2**  well informed, open-minded people intractable disagree about a wide range of claims made about morality
 
-**conclusion** so there is string evidence that claims ade about ethics are not objectively true
+**conclusion** so there is strong evidence that claims made about ethics are not objectively true
+
+counterargument -  in the definition of objectivism is that truth or falsehood does not depend of what anybody thinks about it, therefore the existence of agreement or disagreement is irrelevant objectivism.  consensus is not a prerequisite to the evaluation of a moral statement, universal standards.  universal standards exist outside the bounds of individual or cultural beliefs.
 
 ###  the argument against objectivism from occam's razor
 
@@ -129,44 +139,4 @@ in an area of inquiry, then there is strong evidence that claims made about that
 **conclusion**  therefore, we are not justified in believing that moral properties exist
 
 premise 1 is incorrect because there are hypothesis that exist that have no direct observations but are still believed to be true.  for example, the existence of dark matter, numbers, or what have you is a hypothesis that is not directly observed but is believed to be true based on the evidence that it explains.
-
-###  the regress argument
-
-**premise 1**  a moral belief is justified only if
-    
-i.  the moral belief is self evident or 
-    
-ii.  the moral belief is justified by some other belief
-
-**premise 2**  there are no self-evident moral beliefs
-
-**premise 3**  if a moral belief is justified by some other belief, then either
-
-i.  that other belief is a moral belief or
-    
-ii.  that other belief is a non moral belief
-    
-**premise 4**  there are no moral beliefs that are justified by non moral beliefs
-
-**premise 5**  there are no moral beliefs that are justified by non moral beliefs
-
-**conclusion**  so there are no justified moral beliefs
-
-self evident -  a belief about some statement is self evident if and only if any person that understands that statement is justified in believing it
-
-'all bachelors are unmarried men'
-
-'all triangles have three sides'
-  
-**the argument from non-universality**
-
-**premise 1**  if objectivism is true, then there are universal moral laws
-
-**premise 2**  but there are no universal moral laws
-
-**conclusion**  so, objectivism is false
-
-academic skepticism -  the view that we are not justified in believing that we know anything, knowledge is impossible
-
-pyrrhonian skepticism -  is knowledge possible?  we don't know.  we are not justified in believing that we know anything
 
