@@ -8,6 +8,10 @@
 
 [freewill](./notes/06-freewill.md)
 
+[exam 01](./notes/01-exam.md)
+
+[exam 02](./notes/02-exam.md)
+
 ##  Course Description
 
 Ethical issues from the use of computers, moral responsibility of computer professionals; the moral obligations; the conceptual and ethical issues surrounding the control and ownership of software; and the justifiability of regulation of the design, use and marketing of computer technology.
