@@ -1,6 +1,6 @@
 #  exam 3 study guide
 
-[the absurd / cosmic insignificance](#the-absurd---cosmic-insignificance)
+[the absurd / cosmic insignificance](#the-absurd-cosmic-insignificance)
 
 [freewill](#freewill)
 
