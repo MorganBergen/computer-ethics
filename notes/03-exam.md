@@ -1,8 +1,8 @@
 #  exam 3 study guide
 
-[the absurd / cosmic insignificance](#the-absurd-cosmic-insignificance)
+[the absurd / cosmic insignificance](#the-absurd---cosmic-insignificance)
 
-[free will](#free-will)
+[freewill](#freewill)
 
 [animal ethics](#animal-ethics)
 
@@ -12,7 +12,7 @@ nagel - tsmir, mynr, dsnr, nagels diagnosis of why life is absurd
 
 kahane -  nihilism and insigificance, test for significance /  insignificance, cosmic significance
 
-##  freewill
+## freewill
 
 ####  the principle of universal causation (puc)
 
