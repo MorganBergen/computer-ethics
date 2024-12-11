@@ -1,10 +1,10 @@
 #  exam 3 study guide
 
-[the absurd / cosmic insignificance](##the-absurd-cosmic-insignificance)
+[the absurd / cosmic insignificance](#the-absurd-cosmic-insignificance)
 
-[free will](##free-will)
+[free will](#free-will)
 
-[animal ethics](##animal-ethics)
+[animal ethics](#animal-ethics)
 
 ##  the absurd / cosmic insignificance
 
