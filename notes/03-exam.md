@@ -62,6 +62,23 @@ pap, the agrument against pap
 
 ##  animal ethics
 
-the argument from fred's basement and replies
+####  the argument from fred's basement and replies
+
+1.  it is wrong for fred to torture the puppies in his basement
+2.  if 1 is true, then it is wrong to eat factory farmed meat
+3.  therefore, it is wrong to eat factory farmed meat
+
+1st difference -  fred tortures the animals himself, most people eat meat that was tortured by others
+
+2nd difference -  most people are unaware of the treatment of the animals they eat, so they are off the hook
+
+3rd difference -  utilitarianism, if fred did not torture the puppies, they wouldn't suffer.  but if I stopped buying and eating factory farmed meat, no animals would be spared lives of misery.
+
+1st reply -  image that cocamone production was a big business, it would still be wrong to ingest cocamone.
+
+2nd reply - 
+
 
 (a) and (h), argument for (a), argument against (h), revised argument against (h)
+
+grade are due at 10 pm on the 17th
